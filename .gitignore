@@ -2,11 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.pt
+test.ipynb 
 /videos
 # C extensions
 *.so
-
+youtube_project/videos
 # Distribution / packaging
 .Python
 build/
