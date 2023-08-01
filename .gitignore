@@ -6,6 +6,9 @@ __pycache__/
 test.ipynb 
 /videos
 # C extensions
+
+.DS_Store
+audio/
 *.so
 youtube_project/videos
 # Distribution / packaging
@@ -27,6 +30,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+*.json
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
